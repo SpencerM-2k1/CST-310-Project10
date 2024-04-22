@@ -1,4 +1,4 @@
-# Project 9: Advanced Shaders 1
+# Project 10: Advanced Shaders 2
 # Adapted by Spencer Meren and Samson Becenti from an in-class example
 
 ## Build Project
